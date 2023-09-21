@@ -1,0 +1,168 @@
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.exe
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\EdgeConfigFile.json
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.deps.json
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.runtimeconfig.json
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.runtimeconfig.dev.json
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.pdb
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Collections.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Common.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.ComponentModel.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Configuration.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Localization.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Net.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Net.SocketIO.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.PowerCollections.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Reflection.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Security.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Serialization.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Lokad.ILPack.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\M2Mqtt.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\MoreLinq.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartFormat.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.csproj.AssemblyReference.cache
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.AssemblyInfoInputs.cache
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.AssemblyInfo.cs
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.csproj.CoreCompileInputs.cache
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.csproj.CopyComplete
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.dll
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.pdb
+D:\workspace\opc-edgepro-product-v2-master\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.genruntimeconfig.cache
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.exe
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\EdgeConfigFile.json
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.deps.json
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.runtimeconfig.json
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.runtimeconfig.dev.json
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.pdb
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Collections.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Common.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.ComponentModel.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Configuration.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Localization.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Net.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Net.SocketIO.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.PowerCollections.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Reflection.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Security.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Serialization.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Lokad.ILPack.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\M2Mqtt.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\MoreLinq.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartFormat.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.csproj.AssemblyReference.cache
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.AssemblyInfoInputs.cache
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.AssemblyInfo.cs
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.csproj.CoreCompileInputs.cache
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.csproj.CopyComplete
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.dll
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.pdb
+D:\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.genruntimeconfig.cache
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.exe
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\EdgeConfigFile.json
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.deps.json
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.runtimeconfig.json
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.runtimeconfig.dev.json
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartConnector.Edukit.pdb
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Collections.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Common.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.ComponentModel.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Configuration.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Localization.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Net.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Net.SocketIO.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.PowerCollections.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Reflection.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Security.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Ecng.Serialization.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Lokad.ILPack.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\M2Mqtt.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\SmartFormat.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.AssemblyInfo.cs
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.csproj.CopyComplete
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.dll
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.pdb
+C:\Users\User\Desktop\2023 메타캠프 자료\2023 메타캠프 자료\PLC 데이터통신 소스자료\메타캠프 예제\SmartConnector\SmartConnector.Edukit\obj\Debug\netcoreapp3.1\SmartConnector.Edukit.genruntimeconfig.cache

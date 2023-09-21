@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\Desktop\\2023 메타캠프 자료\\2023 메타캠프 자료\\PLC 데이터통신 소스자료\\메타캠프 예제\\SmartConnector\\SmartConnector.Edukit\\SmartConnector.Edukit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Desktop\\2023 메타캠프 자료\\2023 메타캠프 자료\\PLC 데이터통신 소스자료\\메타캠프 예제\\SmartConnector\\SmartConnector.Edukit\\SmartConnector.Edukit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\2023 메타캠프 자료\\2023 메타캠프 자료\\PLC 데이터통신 소스자료\\메타캠프 예제\\SmartConnector\\SmartConnector.Edukit\\SmartConnector.Edukit.csproj",
+        "projectName": "SmartConnector.Edukit",
+        "projectPath": "C:\\Users\\User\\Desktop\\2023 메타캠프 자료\\2023 메타캠프 자료\\PLC 데이터통신 소스자료\\메타캠프 예제\\SmartConnector\\SmartConnector.Edukit\\SmartConnector.Edukit.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\2023 메타캠프 자료\\2023 메타캠프 자료\\PLC 데이터통신 소스자료\\메타캠프 예제\\SmartConnector\\SmartConnector.Edukit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Ecng.Net.SocketIO": {
+              "target": "Package",
+              "version": "[1.0.66, )"
+            },
+            "M2MqttDotnetCore": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.31, 3.1.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

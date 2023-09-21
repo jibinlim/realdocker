@@ -1,26 +1,22 @@
 version: '3'
 services:
   frontend:
-    build: ./front
+    image: dlawlqls44/realdock-frontend-1
     # 연결할 외부 디렉토리 : 컨테이너 내 디렉토리
-    volumes:
-      - ./front:/home/node/app
     ports:
       - '5173:5173'
-  backend1:
-    build: ./back
+  backend:
+    image: dlawlqls44/realdock-backend1-1
     # 연결할 외부 디렉토리 : 컨테이너 내 디렉토리
-    volumes:
-      - ./back:/usr/src/app
     ports:
       - '5002:5002'
     # 환경변수 설정
-  backend2:
-    build: ./register
+  register:
+    image: dlawlqls44/realdock-register-1
     ports:
       - '3003:3003'
   log:
-    build: ./log
+    image: dlawlqls44/realdock-log-1
     ports:
       - '5003:5003'
 networks:

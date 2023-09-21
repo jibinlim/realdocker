@@ -9,7 +9,7 @@ WORKDIR /usr/src/app
 RUN pip3 install -r requirement.txt
 
 # 컨테이너 실행시 실행할 명령어
-CMD ["sh", "-c", "sleep 30 && python3 app.py"]
+CMD ["python3", "app.py"]
 # 이미지 생성 명령어 (현 파일과 같은 디렉토리에서)
 # docker build -t {이미지명} .
 

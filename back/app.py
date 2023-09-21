@@ -46,14 +46,6 @@ def index():
         }
         for row in result
     ]
-    data = [
-        {
-            "id": row[0],
-            "num": row[1],
-            "created_at": datetime.strftime(row[2], "%Y/%m/%d %H:%M:%S"),
-        }
-        for row in result
-    ]
     return jsonify(data)
 
 
